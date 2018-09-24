@@ -1,6 +1,6 @@
-# imoocmall
+# nodemall
 
-> Imooc Mall 
+> Node Mall 
 
 ## Build Setup
 
